@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name" translatable="false">Nutrition Point</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="action_about" translatable="false">About</string>
+
+    <string name="choose_gender" translatable="false">Choose your Gender?</string>
+    <string name="male" translatable="false">MALE</string>
+    <string name="female" translatable="false">FEMALE</string>
+    <string name="start_body_analysis" translatable="false">START BODY ANALYSIS</string>
+    <string name="action_language" translatable="false">العربية</string>
+    <string name="physical_activity" translatable="false">Physical Activity</string>
+    <string name="health_monitor" translatable="false">HEALTH MONITOR</string>
+    <string name="your_profile_summary" translatable="false">YOUR PROFILE SUMMARY</string>
+    <string name="show_analysis" translatable="false">show Analysis</string>
+    <string name="restart_body_analysis" translatable="false">Restart Body Analysis</string>
+    <string name="doubleBackToast" translatable="false">Press Back again to Exit</string>
+    <string name="healthy_recipes" translatable="false"></string>
+
+
+
+    <string name="notification_string" translatable="false">Water Reminder</string>
+    <string name="reminders_title" translatable="false">Reminders</string>
+    <string name="years" translatable="false">Years</string>
+    <string name="kg" translatable="false">kg</string>
+    <string name="Male" translatable="false">Male</string>
+    <string name="Female" translatable="false">Female</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="age" translatable="false">AGE</string>
+    <string name="weight" translatable="false">Weight</string>
+    <string name="height" translatable="false">Height</string>
+    <string name="analyze_data" translatable="false">Analyze Data</string>
+</resources>
